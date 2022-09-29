@@ -1,0 +1,739 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+
+  "Categories": [
+ 
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"1",
+      "image":"https://i.ibb.co/rcDjJG5/1.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"2",
+      "image":"https://i.ibb.co/3vzvq4s/2.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"3",
+      "image":"https://i.ibb.co/4FHXgkV/3.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"4",
+      "image":"https://i.ibb.co/2k7wJxp/4.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"5",
+      "image":"https://i.ibb.co/DwtJVGL/5.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"6",
+      "image":"https://i.ibb.co/7zj7q8C/6.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"7",
+      "image":"https://i.ibb.co/RPgP1Mt/7.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"8",
+      "image":"https://i.ibb.co/SB1NdPP/8.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"9",
+      "image":"https://i.ibb.co/b3XfDC3/9.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"10",
+      "image":"https://i.ibb.co/30zpKRR/10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"11",
+      "image":"https://i.ibb.co/f02QJfP/11.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"12",
+      "image":"https://i.ibb.co/qJhbNks/12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"13",
+      "image":"https://i.ibb.co/sgvps93/13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"14",
+      "image":"https://i.ibb.co/3Mzrc8z/14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"15",
+      "image":"https://i.ibb.co/XsjkPdy/15.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"16",
+      "image":"https://i.ibb.co/s5gpmW3/16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"17",
+      "image":"https://i.ibb.co/HnYPTw1/17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"18",
+      "image":"https://i.ibb.co/fkzhSfn/18.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"19",
+      "image":"https://i.ibb.co/4Fy7SJs/19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"20",
+      "image":"https://i.ibb.co/SrkskQb/20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"21",
+      "image":"https://i.ibb.co/J5skGc3/157.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"22",
+      "image":"https://i.ibb.co/gRJS1dW/158.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"23",
+      "image":"https://i.ibb.co/p1h577X/42868.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"24",
+      "image":"https://i.ibb.co/6YspfRb/55402.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"25",
+      "image":"https://i.ibb.co/PZL0nr7/55431.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"26",
+      "image":"https://i.ibb.co/7gFMRZ4/281758.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"27",
+      "image":"https://i.ibb.co/3BDpNHr/330201.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"28",
+      "image":"https://i.ibb.co/yg7csT1/400496.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"29",
+      "image":"https://i.ibb.co/YhVGhV6/531474.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"30",
+      "image":"https://i.ibb.co/Ny1wgBT/674623.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"31",
+      "image":"https://i.ibb.co/7V843gM/687159-2.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"32",
+      "image":"https://i.ibb.co/TTcmxBZ/687160.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"33",
+      "image":"https://i.ibb.co/M5Bjqtr/687161.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"34",
+      "image":"https://i.ibb.co/2nwH7Vg/687163.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"35",
+      "image":"https://i.ibb.co/L9TthkZ/687170.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"36",
+      "image":"https://i.ibb.co/tqnsxT5/687173.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"37",
+      "image":"https://i.ibb.co/Qjk2ryC/687174.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"38",
+      "image":"https://i.ibb.co/yddS0r7/687177.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"39",
+      "image":"https://i.ibb.co/9Y9phgM/687182.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"40",
+      "image":"https://i.ibb.co/q0tg9vb/687184.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"41",
+      "image":"https://i.ibb.co/cDCXfjQ/687188.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"42",
+      "image":"https://i.ibb.co/3C0TyM3/687189.png"
+    },
+    {
+      "id":43,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"43",
+      "image":"https://i.ibb.co/QvJWCn8/687192.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"44",
+      "image":"https://i.ibb.co/P6c5pv1/687194.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"45",
+      "image":"https://i.ibb.co/Zxs0Rvb/687195.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"46",
+      "image":"https://i.ibb.co/0hZ8Qzr/687200.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"47",
+      "image":"https://i.ibb.co/nrRdZ7K/687202.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"48",
+      "image":"https://i.ibb.co/Ldm3g9z/687203.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"49",
+      "image":"https://i.ibb.co/f4NXCWx/687204.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"50",
+      "image":"https://i.ibb.co/82sxgVr/687206.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"51",
+      "image":"https://i.ibb.co/g7wBKy2/687210.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"52",
+      "image":"https://i.ibb.co/6vgKZ2R/687211.png"
+    },
+    {
+      "id":53,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"53",
+      "image":"https://i.ibb.co/LYwDFCM/687216.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"54",
+      "image":"https://i.ibb.co/BVvFTws/687218.png"
+    },
+    {
+      "id":55,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"55",
+      "image":"https://i.ibb.co/v3zD61Y/687223.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"56",
+      "image":"https://i.ibb.co/C8QzWsZ/687229.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"57",
+      "image":"https://i.ibb.co/TbLJy7y/687231.png"
+    },
+    {
+      "id":58,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"58",
+      "image":"https://i.ibb.co/Vg40F2j/687233.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"59",
+      "image":"https://i.ibb.co/98N3mrp/687235.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"60",
+      "image":"https://i.ibb.co/cQJ7PQr/687239.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"61",
+      "image":"https://i.ibb.co/LncLSmM/687241.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"62",
+      "image":"https://i.ibb.co/n6vw444/687242.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"63",
+      "image":"https://i.ibb.co/dpTWCm0/687243.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"64",
+      "image":"https://i.ibb.co/T2Z9vmy/687245.png"
+    },
+    {
+      "id":65,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"65",
+      "image":"https://i.ibb.co/nPfsPMc/687246.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"66",
+      "image":"https://i.ibb.co/ByNMwQm/687248.png"
+    },
+    {
+      "id":67,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"67",
+      "image":"https://i.ibb.co/x6GyGMN/687249.png"
+    },
+    {
+      "id":68,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"68",
+      "image":"https://i.ibb.co/bdJcRY9/687250.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"69",
+      "image":"https://i.ibb.co/YydyBSN/687251.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"70",
+      "image":"https://i.ibb.co/3syP8Qp/687258.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"71",
+      "image":"https://i.ibb.co/TRfWsq3/1267059.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"72",
+      "image":"https://i.ibb.co/5xPP5b6/1267074.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"73",
+      "image":"https://i.ibb.co/0q1hpyt/1368347.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"74",
+      "image":"https://i.ibb.co/85fg0Qp/1368404.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"75",
+      "image":"https://i.ibb.co/ScXL652/1620429.png"
+    },
+    {
+      "id":76,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"76",
+      "image":"https://i.ibb.co/PZmKj9C/1620432.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"77",
+      "image":"https://i.ibb.co/McKqb0D/1938768.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"78",
+      "image":"https://i.ibb.co/BqV0NsT/2148008.png"
+    },
+    {
+      "id":79,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"79",
+      "image":"https://i.ibb.co/Rb5C7gv/2211801.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"80",
+      "image":"https://i.ibb.co/0nD1C7q/2303853.png"
+    },
+    {
+      "id":81,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"81",
+      "image":"https://i.ibb.co/Kmf6JFb/2303857.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"82",
+      "image":"https://i.ibb.co/55n4g1d/2313224.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"83",
+      "image":"https://i.ibb.co/CMs6Ww6/3062717.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"84",
+      "image":"https://i.ibb.co/m6DQRrK/3315545.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"85",
+      "image":"https://i.ibb.co/HTDFmjr/3522028.jpg"
+    },
+    {
+      "id":86,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"86",
+      "image":"https://i.ibb.co/mJLD4K6/3522029.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"87",
+      "image":"https://i.ibb.co/Jscw06K/3522039.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"88",
+      "image":"https://i.ibb.co/yFwfwQR/3522042.jpg"
+    },
+    {
+      "id":89,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"89",
+      "image":"https://i.ibb.co/6rpyrsD/3522045.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"90",
+      "image":"https://i.ibb.co/d0vnTLf/3522048.jpg"
+    },
+    {
+      "id":91,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"91",
+      "image":"https://i.ibb.co/k9wZcRd/3522052.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"92",
+      "image":"https://i.ibb.co/zH9TS0L/3522062.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"93",
+      "image":"https://i.ibb.co/yQvwnWs/3522065.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"94",
+      "image":"https://i.ibb.co/P4658nj/3522068.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"95",
+      "image":"https://i.ibb.co/vsSFwJG/3522082.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"96",
+      "image":"https://i.ibb.co/yRkt5p6/3522087.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"97",
+      "image":"https://i.ibb.co/PMrRLtZ/3522089.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"98",
+      "image":"https://i.ibb.co/g9Yz6XZ/3522091.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"99",
+      "image":"https://i.ibb.co/GT6GPX7/3522094.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"100",
+      "image":"https://i.ibb.co/4Zh3FBB/3522107.jpg"
+    },
+    {
+      "id":101,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"101",
+      "image":"https://i.ibb.co/sKJMyVj/3522111.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"102",
+      "image":"https://i.ibb.co/6X6rGnn/3522112.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"103",
+      "image":"https://i.ibb.co/vwWwxDG/3522114.jpg"
+    },
+    {
+      "id":104,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"104",
+      "image":"https://i.ibb.co/HgZsRFN/3522121.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"105",
+      "image":"https://i.ibb.co/Gxr6bQw/3522122.jpg"
+    },
+    {
+      "id":106,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"106",
+      "image":"https://i.ibb.co/jJxLsnS/3522125.jpg"
+    },
+    {
+      "id":107,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"107",
+      "image":"https://i.ibb.co/phKnrpT/3522129.jpg"
+    },
+    {
+      "id":108,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"108",
+      "image":"https://i.ibb.co/zbhmqFP/3522133.jpg"
+    },
+    {
+      "id":109,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"109",
+      "image":"https://i.ibb.co/9ctSNxF/3522135.jpg"
+    },
+    {
+      "id":110,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"110",
+      "image":"https://i.ibb.co/7nLY1vd/3522138.jpg"
+    },
+    {
+      "id":111,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"111",
+      "image":"https://i.ibb.co/zZRrRQD/3522149.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"112",
+      "image":"https://i.ibb.co/M2BH761/3522153.png"
+    },
+    {
+      "id":113,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"113",
+      "image":"https://i.ibb.co/8gCZ03g/3522178.png"
+    },
+    {
+      "id":114,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"114",
+      "image":"https://i.ibb.co/fQ4JxWJ/3522180.jpg"
+    },
+    {
+      "id":115,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"115",
+      "image":"https://i.ibb.co/zrQb4gg/3522186.jpg"
+    },
+    {
+      "id":116,
+      "name_category": "Cartoon Bear Wallpapers",
+      "title":"116",
+      "image":"https://i.ibb.co/3WH383V/3522187.png"
+    }
+  ]
+}
